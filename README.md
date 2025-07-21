@@ -1,1 +1,0 @@
-# com.skt.prod.dialer
